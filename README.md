@@ -1,1 +1,1 @@
-This is a dark and colorful syntax theme.
+This is a dark and colorful Atom syntax theme.
