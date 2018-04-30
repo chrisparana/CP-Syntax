@@ -1,0 +1,15 @@
+{
+  "name": "CP-syntax",
+  "theme": "syntax",
+  "version": "0.4.0",
+  "description": "A dark and colorful syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/cp-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
